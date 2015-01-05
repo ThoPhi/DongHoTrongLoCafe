@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For DMD Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CFC_LedMatrixSerial					KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getDeviceCount		KEYWORD2
+clearDisplay		KEYWORD2
+setLed				KEYWORD2
+spiScanLed			KEYWORD2
+pushBuffer			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LED_NONE	LITERAL1
+LED_GREEN	LITERAL1
+LED_RED		LITERAL1
+LED_ORANGE	LITERAL1

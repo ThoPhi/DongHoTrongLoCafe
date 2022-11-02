@@ -11,7 +11,7 @@ làm đồng hồ đẹp, để bàn , nhìn thích lắm :3
 4. Nút nhấn
 5. Jack nguồn 5li + nguồn 5V 
 
-* Hoạt động 
+*Hoạt động 
 === 
 Khi cắm điện chương trình sẽ chạy ở mode 1 - đồng hồ . 
 Bấm nút sẽ chuyển mode.
